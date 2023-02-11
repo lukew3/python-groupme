@@ -1,0 +1,4 @@
+test
+venv
+groupme.egg-info
+*.pyc
