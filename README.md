@@ -2,6 +2,7 @@
 Python wrapper for the GroupMe api
 
 ## Usage
+Go to [https://dev.groupme.com/](https://dev.groupme.com/), sign in, and click on 'Access token' in the nav bar to see your access token. Then, use it in your program like this:
 ```
 import groupme
 
